@@ -2,7 +2,7 @@
 
 library(shiny)
 shinyUI(fluidPage(
-  titlePanel("MA-plot + counts plot with shiny"),
+  titlePanel("MA-plot + expression plot with shiny"),
 
   # flow layout fills out left to right then down
   flowLayout(
